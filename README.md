@@ -55,7 +55,7 @@ Skills were extracted and transformed into a structured format for analysis.
 ![Top 10 Most In-Demand Skills](images/Top 10 Most In-Demand Skills.png)
 
 ### 🔹 Top 10 Skills
-[![Top 10 Skills](images/Top 10 Skills.png)](images/Top 10 Skills.png)
+![Top 10 Skills](images/top_10_skills.png)
 
 ### 🔹 Top 15 Skills Distribution
 ![Top 15 Skills Distribution](images/Top 15 Skills Distribution.png)
