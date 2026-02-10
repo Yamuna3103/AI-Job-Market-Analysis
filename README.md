@@ -39,32 +39,31 @@ Skills were extracted and transformed into a structured format for analysis.
    - Skills Required  
 
 ---
-
 ## 📊 Visual Insights
 
 ### 🔹 Job Role Distribution
-![Job Role Distribution](images/Job Role Distribution.png)
+![Job Role Distribution](images/Job_Role_Distribution.png)
 
 ### 🔹 Skills Count per Company
-![Skills Count per Company](images/Skills Count per Company.png)
+![Skills Count per Company](images/Skills_Count_per_Company.png)
 
 ### 🔹 Top 10 Companies by Skill Demand
-![Top 10 Companies by Skill Demand](images/Top 10 Companies by Skill Demand.png)
+![Top 10 Companies by Skill Demand](images/Top_10_Companies_by_Skill_Demand.png)
 
 ### 🔹 Top 10 Most In-Demand Skills
-![Top 10 Most In-Demand Skills](images/Top 10 Most In-Demand Skills.png)
+![Top 10 Most In-Demand Skills](images/Top_10_Most_In_Demand_Skills.png)
 
 ### 🔹 Top 10 Skills
-![Top 10 Skills](images/top_10_skills.png)
+![Top 10 Skills](images/Top_10_Skills.png)
 
 ### 🔹 Top 15 Skills Distribution
-![Top 15 Skills Distribution](images/Top 15 Skills Distribution.png)
+![Top 15 Skills Distribution](images/Top_15_Skills_Distribution.png)
 
 ### 🔹 Top 5 Skills Share
-![Top 5 Skills Share](images/Top 5 Skills Share.png)
+![Top 5 Skills Share](images/Top_5_Skills_Share.png)
 
 ### 🔹 Top Companies vs Top Skills Heatmap
-![Top Companies vs Top Skills Heatmap](images/Top Companies vs Top Skills Heatmap.png)
+![Top Companies vs Top Skills Heatmap](images/Top_Companies_vs_Top_Skills_Heatmap.png)
 
 ---
 
